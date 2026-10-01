@@ -1,0 +1,14 @@
+{
+  "name": "parira-jusi-landing",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.12.4",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3000 --strictPort"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
